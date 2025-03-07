@@ -8,7 +8,7 @@
 '--- DEFAULT ARGS ---
 '--------------------
 '
-' Default paths for input boxes (otherwise will be blank):
+' Default paths for input boxes (otherwise will be blank) ... !! CHANGE IF REPURPOSING FOR YOUR OWN PROJECT !!:
 Dim csv_file_path 
 csv_file_path = "C:\Michael\Orderofevents_July24\Scripts\chloromeotrp_metabolites.csv"
 
